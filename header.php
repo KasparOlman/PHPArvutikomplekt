@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>M&K Computers</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 
